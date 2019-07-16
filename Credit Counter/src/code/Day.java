@@ -1,7 +1,7 @@
 package code;
 import java.util.*;
 
-public class Day {//extends Date {
+public class Day {
 
 	private Date date;
 	
